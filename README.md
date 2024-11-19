@@ -18,11 +18,11 @@ The main objectives of this project were:
 ## Repository Contents
 
 ### 1. Documentation
-- **[QuantumLink_CaseStudy_Documentation.docx](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/QuantumLink_casestudy_documentation.docx)**: Detailed documentation of the project, including challenges, solutions, and impact.
+- **[QuantumLink_CaseStudy_Documentation.pdf](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/QuantumLink_casestudy_documentation.pdf)**: Detailed documentation of the project, including challenges, solutions, and impact.
 - **[2025 Graduate Recruitment - Case Study.pdf](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/2025%20Graduate%20Recruitment%20-%20Case%20Study.pdf)**: Original case study details provided for the assessment.
 
 ### 2. Presentation
-- **[QuantumLink_Slides.pptx](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/QuantumLink.pptx)**: PowerPoint presentation used to showcase the strategy and recommendations to a panel of directors.
+- **[QuantumLink.pdf](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/QuantumLink.pdf)**: PowerPoint presentation used to showcase the strategy and recommendations to a panel of directors.
 
 ### 3. Key Visuals and Frameworks
 - **Growth-Profit Matrix**: Framework used to evaluate and prioritize QuantumLink’s product portfolio based on profitability and growth potential.
