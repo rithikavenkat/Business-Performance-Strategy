@@ -24,11 +24,6 @@ The main objectives of this project were:
 ### 2. Presentation
 - **[QuantumLink.pdf](https://github.com/rithikavenkat/Business-Performance-Strategy/blob/main/QuantumLink.pdf)**: PowerPoint presentation used to showcase the strategy and recommendations to a panel of directors.
 
-### 3. Key Visuals and Frameworks
-- **Growth-Profit Matrix**: Framework used to evaluate and prioritize QuantumLink’s product portfolio based on profitability and growth potential.
-- **Unified Communication Flowchart**: Visual representation of streamlined communication between departments.
-- **Agile Transformation Benefits**: Illustration comparing current and proposed development cycles.
-
 ---
 
 ## Key Recommendations
